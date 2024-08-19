@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there!
 
 👋 I'm a passionate Data Engineer with four years of experience in the tech industry—two years as a Java developer and the last two as a dedicated Data Engineer. I started my career mastering Java, Spring Boot, Maven, and SQL databases, and have since evolved into a skilled Data Engineer, leveraging tools like Informatica PowerCenter, Informatica Developer, IICS (Informatica Intelligent Cloud Services) for Data Quality and Integration, PL/SQL, SQL Developer, and Snowflake.
 
