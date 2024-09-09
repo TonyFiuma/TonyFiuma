@@ -1,10 +1,11 @@
 ### Hi there!
 
-👋 I'm a passionate Data Engineer with four years of experience in the tech industry, built on a strong Java development background. I began my career mastering Java, Spring Boot, Maven, and SQL databases, and have since evolved into a skilled Data Engineer, leveraging tools like Informatica PowerCenter, Informatica Developer, Informatica Intelligent Cloud Services for Data Quality and Integration, PL/SQL, SQL Developer, and Snowflake.
+👋
+I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I specialize in building and optimizing scalable data pipelines using tools like Informatica PowerCenter, Informatica Cloud Services, PL/SQL, and Snowflake.
 
-🚀 My expertise lies in building and optimizing scalable data pipelines that transform raw data into valuable insights, all while meeting complex business requirements. Whether integrating diverse data sources, ensuring data quality, or enhancing performance, I approach each challenge with a keen eye for detail.
+🚀 My focus is on transforming raw data into valuable insights, integrating diverse data sources, and ensuring data quality, all while meeting complex business needs.
 
-💡 As I continue to explore new technologies and methodologies, I remain committed to staying at the forefront of the data engineering field. If you're looking for a seasoned professional with a strong foundation in both software development and data engineering, I'm your person! 🙌
+💡 Continuously exploring new technologies, I stay at the forefront of the data engineering field. If you're seeking a skilled professional with expertise in software development and data engineering, I'm your person! 🙌
 
 <!--
 **TonyFiuma/TonyFiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
