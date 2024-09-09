@@ -5,7 +5,7 @@ I'm a passionate Data Engineer with several years of experience and a strong fou
 
 🚀 My focus is on transforming raw data into valuable insights, integrating diverse data sources, and ensuring data quality, all while meeting complex business needs.
 
-💡 Continuously exploring new technologies, I stay at the forefront of the data engineering field. If you're seeking a skilled professional with expertise in software development and data engineering, I'm your person! 🙌
+💡 Continuously exploring new technologies. If you're seeking a skilled professional with expertise in software development and data engineering, I'm your person! 🙌
 
 <!--
 **TonyFiuma/TonyFiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
