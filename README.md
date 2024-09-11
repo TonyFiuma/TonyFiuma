@@ -1,6 +1,6 @@
 ## Welcome to TonyFiuma's GitHub page!🔥
 
-[My LinkedIn]([URL](https://www.linkedin.com/in/antonio-fiumano-68aab419a)
+[My LinkedIn](www.linkedin.com/in/antonio-fiumano-68aab419a)
 
 
 👋
