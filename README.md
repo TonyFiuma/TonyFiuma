@@ -14,4 +14,8 @@ I'm a passionate Data Engineer with several years of experience and a strong fou
 
 
 ### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/RatingEngineBank_DataEngineering)
+The Rating Engine Bank Pipeline project is a robust data engineering solution designed to streamline and enhance the processing of financial data for a leading banking institution. This project, executed by a dynamic team of skilled data engineers, leverages Informatica Power Center for efficient ETL processes, PL/SQL Oracle for sophisticated data manipulation, and Linux for reliable system operations.
 
+- Utilizes advanced data visualization tools to present real-time analytics and performance metrics through user-friendly interfaces.
+- Our backend system handles complex data transformations and integrations, ensuring seamless data flow and robust performance.
+- Tech Stack: Informatica Power Center for ETL processes and Oracle PL/SQL for database management.
