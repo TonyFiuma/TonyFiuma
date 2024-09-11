@@ -1,4 +1,4 @@
-## Welcome to TonyFiuma's GitHub page!🔥
+## Welcome to Antonio Fiumanò's GitHub page!🔥
 
 👋
 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I specialize in building and optimizing scalable data pipelines using tools and languages like Informatica Intelligent Cloud Service(IICS), Informatica PowerCenter, Oracle Database, Snowflake and PL/SQL.
@@ -13,5 +13,5 @@ I'm a passionate Data Engineer with several years of experience and a strong fou
 ## Projects
 
 
-### 🌎 Project  [💻Live Version](https://github.com/TonyFiuma) [📄 Repo](https://github.com/TonyFiuma/RatingEngineBank_DataEngineering)
-Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business.
+### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/RatingEngineBank_DataEngineering)
+
