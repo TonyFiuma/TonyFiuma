@@ -8,7 +8,7 @@ I'm a passionate Data Engineer with several years of experience and a strong fou
 [![Linkedin: Antonio Fiumanò](https://img.shields.io/badge/-AntonioFiumanò-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-fiumano-68aab419a/)](hhttps://www.linkedin.com/in/antonio-fiumano-68aab419a/)
 [![GitHub AntonioFiumanò](https://img.shields.io/github/followers/TonyFiuma?label=follow&style=social)](https://github.com/TonyFiuma)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TonyFiuma&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyFiuma&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects
 
@@ -35,7 +35,6 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 #### Tech stack:
 - FE Website & mobile app: Esempi di tech stack
 - BE : Esempi di tech stack
-
 
 <!--
 **TonyFiuma/TonyFiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
