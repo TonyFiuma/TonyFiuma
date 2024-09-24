@@ -10,6 +10,7 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 - **Oracle Database**
 - **Snowflake**
 - **PL/SQL**
+- **Python**
 
 🚀 My focus is on transforming raw data into valuable insights, integrating diverse data sources, and ensuring data quality, all while meeting complex business needs.
 
