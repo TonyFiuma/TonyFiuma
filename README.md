@@ -2,8 +2,8 @@
 
 ## Welcome to Antonio Fiumanò's GitHub page!🔥
 
-👋 I'm a passionate **Data Engineer** with several years of experience and a strong foundation in **Java** development.  
-I specialize in building and optimizing scalable data pipelines using tools and languages like:
+👋 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I have recently started working on ETL processes using Python.
+I specialize in building and optimizing scalable data pipelines using tools and languages such as:
 
 - **Informatica Intelligent Cloud Service (IICS)**
 - **Informatica PowerCenter**
@@ -50,12 +50,14 @@ Key features:
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300C8FF.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23FF7300.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TonyFiuma&theme=nord&hide_border=true&include_all_commits=true&count_private=true)  
