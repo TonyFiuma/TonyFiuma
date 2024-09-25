@@ -37,7 +37,7 @@ Key features:
 
 ---
 
-### 🌐 Python ETL Project [📄 Repo](https://github.com/TonyFiuma/python_etl_project)
+### 🌐 Python ETL Project [📄 Repo](https://github.com/TonyFiuma/electric_cars_python_etl)
 In this **Python ETL Project**, I focused on building a scalable ETL process that extracts data from a public API, transforms it, and loads it into a CSV file or Google BigQuery. This project is designed to improve my Python skills as a Data Engineer.
 
 Key features:
