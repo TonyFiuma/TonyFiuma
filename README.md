@@ -2,7 +2,7 @@
 
 ## Welcome to Antonio Fiumanò's GitHub page!🔥
 
-👋 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I have recently started working on ETL processes using Python.
+👋 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I have recently started working on ETL processes using Python.  
 I specialize in building and optimizing scalable data pipelines using tools and languages such as:
 
 - **Informatica Intelligent Cloud Service (IICS)**
@@ -30,11 +30,22 @@ The **Rating Engine Bank Pipeline** project is a robust data engineering solutio
 - **Linux** for reliable system operations
 
 Key features:
-
 - Advanced data visualization tools for real-time analytics and performance metrics
 - Backend system handles complex data transformations and integrations, ensuring seamless data flow
 
 **Tech Stack**: Informatica Power Center, Oracle PL/SQL, Linux
+
+---
+
+### 🌐 Python ETL Project [📄 Repo](https://github.com/TonyFiuma/python_etl_project)
+In this **Python ETL Project**, I focused on building a scalable ETL process that extracts data from a public API, transforms it, and loads it into a CSV file or Google BigQuery. This project is designed to improve my Python skills as a Data Engineer.
+
+Key features:
+- **Extraction**: Retrieves data from a RESTful API using Python's `requests` library.
+- **Transformation**: Utilizes Python's `pandas` library to clean and process the data, including filtering, aggregation, and formatting.
+- **Loading**: Supports outputting the transformed data into a CSV file or loading it directly into Google BigQuery for further analysis.
+
+**Tech Stack**: Python, pandas, Google BigQuery
 
 ---
 
@@ -57,7 +68,6 @@ Key features:
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TonyFiuma&theme=nord&hide_border=true&include_all_commits=true&count_private=true)  
