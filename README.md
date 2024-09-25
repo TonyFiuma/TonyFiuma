@@ -22,7 +22,7 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 
 ## Projects
 
-### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/RatingEngineBank_DataEngineering)
+### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/bank_rating_engine)
 The **Rating Engine Bank Pipeline** project is a robust data engineering solution designed to streamline and enhance the processing of financial data for a leading banking institution. This project leverages:
 
 - **Informatica Power Center** for ETL processes
