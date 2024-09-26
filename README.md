@@ -25,27 +25,30 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 ### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/bank_rating_engine)
 The **Rating Engine Bank Pipeline** project is a robust data engineering solution designed to streamline and enhance the processing of financial data for a leading banking institution. This project leverages:
 
+**Tech Stack**: 
 - **Informatica Power Center** for ETL processes
 - **PL/SQL Oracle** for sophisticated data manipulation
 - **Linux** for reliable system operations
 
-Key features:
+**Key features**:
 - Advanced data visualization tools for real-time analytics and performance metrics
 - Backend system handles complex data transformations and integrations, ensuring seamless data flow
-
-**Tech Stack**: Informatica Power Center, Oracle PL/SQL, Linux
 
 ---
 
 ### 🌐 Python ETL Project [📄 Repo](https://github.com/TonyFiuma/electric_cars_python_etl)
-In this **Python ETL Project**, I focused on building a scalable ETL process that extracts data from a public API, transforms it, and loads it into a CSV file or Google BigQuery. This project is designed to improve my Python skills as a Data Engineer.
+In this **Python ETL Project**, I focused on building a scalable ETL process that extracts data from a specified URL, transforms it, and loads it into a CSV file or Google BigQuery. 
+This project is designed to enhance my Python skills as a Data Engineer.
 
-Key features:
-- **Extraction**: Retrieves data from a RESTful API using Python's `requests` library.
-- **Transformation**: Utilizes Python's `pandas` library to clean and process the data, including filtering, aggregation, and formatting.
+## Tech Stack:
+- **Python**
+- **Pandas**
+- **Google BigQuery**
+  
+## Key Features:
+- **Extraction**: Retrieves data from a given URL using Python's `requests` library.
+- **Transformation**: Utilizes Python's `pandas` library to clean and process the data, including filtering and formatting.
 - **Loading**: Supports outputting the transformed data into a CSV file or loading it directly into Google BigQuery for further analysis.
-
-**Tech Stack**: Python, pandas, Google BigQuery
 
 ---
 
