@@ -5,11 +5,13 @@
 👋 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I have recently started working on ETL processes using Python.  
 I specialize in building and optimizing scalable data pipelines using tools and languages such as:
 
+- **Databicks**
+- **PySpark**
 - **Informatica Intelligent Cloud Service (IICS)**
 - **Informatica PowerCenter**
 - **Oracle Database**
 - **Snowflake**
-- **PL/SQL**
+- **SQL**
 - **Python**
 
 🚀 My focus is on transforming raw data into valuable insights, integrating diverse data sources, and ensuring data quality, all while meeting complex business needs.
