@@ -22,6 +22,28 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 
 ## Projects
 
+### 🚖 Smart Mobility Data Pipeline [📄 Repo](https://github.com/TonyFiuma/TonyFiuma-smart-mobility-spark)
+
+This project implements an end-to-end **data engineering pipeline** on Databricks using the **Medallion Architecture (Bronze, Silver, Gold)** to analyze urban mobility services in Milan.
+
+The pipeline transforms raw CSV mobility data into **business-ready KPIs and interactive dashboards** through scalable ETL processes built with PySpark and Delta Lake.
+
+## Tech Stack:
+- **Databricks**
+- **PySpark**
+- **Delta Lake**
+- **SQL**
+- **Medallion Architecture**
+
+## Key Features:
+- **Bronze Layer**: Raw CSV ingestion with metadata enrichment
+- **Silver Layer**: Data cleaning, schema standardization, and deduplication
+- **Gold Layer**: KPI aggregations and business metrics generation
+- **Serving Layer**: SQL Views for BI dashboard consumption
+- **Dashboarding**: Interactive Databricks SQL dashboards for mobility trend analysis
+
+---
+
 ### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/bank_rating_engine)
 The **Rating Engine Bank Pipeline** project is a robust data engineering solution designed to streamline and enhance the processing of financial data for a leading banking institution. This project leverages:
 
