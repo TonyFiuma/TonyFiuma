@@ -24,7 +24,7 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 
 ## Projects
 
-### 🚖 Smart Mobility Data Pipeline [📄 Repo](https://github.com/TonyFiuma/TonyFiuma-smart-mobility-spark)
+### 🚖 Smart Mobility Data Pipeline [📄 Repo](https://github.com/TonyFiuma/smart_mobility_databricks_pyspark)
 
 This project implements an end-to-end **data engineering pipeline** on Databricks using the **Medallion Architecture (Bronze, Silver, Gold)** to analyze urban mobility services in Milan.
 
