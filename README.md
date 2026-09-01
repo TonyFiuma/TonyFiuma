@@ -7,6 +7,7 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 
 * **Databricks**
 * **PySpark**
+* **Azure**
 * **Informatica Intelligent Cloud Service (IICS)**
 * **Informatica PowerCenter**
 * **Oracle Database**
