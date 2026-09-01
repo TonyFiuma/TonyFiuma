@@ -137,9 +137,3 @@ This project is designed to enhance my Python skills as a Data Engineer.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TonyFiuma\&theme=nord\&no-frame=true\&no-bg=false\&margin-w=4)
 
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TonyFiuma\&theme=nord\&no-frame=true\&no-bg=false\&margin-w=4)
