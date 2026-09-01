@@ -125,15 +125,7 @@ This project is designed to enhance my Python skills as a Data Engineer.
 
 # 📊 GitHub Stats
 
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyFiuma\&theme=nord\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyFiuma\&theme=nord\&hide_border=true)
-
-[![Antonio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyFiuma\&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TonyFiuma\&theme=nord\&no-frame=true\&no-bg=false\&margin-w=4)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyFiuma&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyFiuma&layout=compact&theme=nord&hide_border=true" />
+</p>
