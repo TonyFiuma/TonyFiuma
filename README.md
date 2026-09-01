@@ -123,12 +123,20 @@ This project is designed to enhance my Python skills as a Data Engineer.
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TonyFiuma\&theme=nord\&hide_border=true\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TonyFiuma\&theme=nord\&hide_border=true)
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyFiuma\&theme=nord\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyFiuma\&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyFiuma\&theme=nord\&hide_border=true)
+
+[![Antonio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyFiuma\&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TonyFiuma\&theme=nord\&no-frame=true\&no-bg=false\&margin-w=4)
+
 
 ---
 
