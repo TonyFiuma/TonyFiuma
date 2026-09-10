@@ -2,8 +2,9 @@
 
 ## Welcome to Antonio Fiumanò's GitHub page! 🔥
 
-👋 I'm a passionate Data Engineer with several years of experience and a strong foundation in Java development. I have recently started working on ETL processes using Python.
-I specialize in building and optimizing scalable data pipelines using tools and languages such as:
+👋 I'm a passionate **Data Engineer** with several years of experience and a strong foundation in Java development and enterprise data integration.
+
+I specialize in building and optimizing scalable data pipelines and data platforms using technologies such as:
 
 * **Databricks**
 * **PySpark**
@@ -15,16 +16,61 @@ I specialize in building and optimizing scalable data pipelines using tools and 
 * **SQL**
 * **Python**
 
-🚀 My focus is on transforming raw data into valuable insights, integrating diverse data sources, and ensuring data quality, all while meeting complex business needs.
+🤖 I'm currently expanding my Data Engineering background into **Agentic AI**, exploring how LLMs, RAG and agentic workflows can be applied to real Data Engineering and migration problems.
 
-💡 Continuously exploring new technologies. If you're seeking a skilled professional with expertise in software development and data engineering, **I'm your person!** 🙌
+🚀 My focus is on transforming raw data into valuable insights, modernizing legacy data platforms, integrating diverse data sources and building reliable, scalable and governed data solutions.
+
+💡 Continuously exploring new technologies across **Data Engineering, Cloud, Big Data and AI**.
 
 ## 🌐 Socials:
 
-[![LinkedIn: TonyFiuma](https://img.shields.io/badge/-Antonio_Fiumanò-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/antonio-fiumano-68aab419a/)](https://www.linkedin.com/in/antonio-fiumano-68aab419a/)
+[![LinkedIn: TonyFiuma](https://img.shields.io/badge/-Antonio_Fiumanò-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/antonio-f-68aab419a/)](https://www.linkedin.com/in/antonio-f-68aab419a/)
 [![GitHub Tony Fiuma](https://img.shields.io/github/followers/TonyFiuma?label=follow\&style=social)](https://github.com/TonyFiuma)
 
-## Projects
+---
+
+# 🚀 Projects
+
+### 🤖 PowerCenter to Databricks Migration Agent [📄 Repo](https://github.com/TonyFiuma/powercenter-to-databricks-agent)
+
+An **Agentic AI migration framework** designed to assist the migration of **Informatica PowerCenter mappings to Databricks / PySpark**.
+
+The project combines deterministic PowerCenter XML parsing with **LangGraph, dual RAG knowledge bases, LLM-based migration planning, PySpark generation, deterministic validation and automatic repair loops**.
+
+Instead of relying on an LLM to directly translate raw PowerCenter XML into code, the system follows a controlled migration workflow where structured mapping metadata remains the source of truth and LLM outputs are validated before being accepted.
+
+**Tech Stack:**
+
+* **Python**
+* **LangGraph**
+* **LangChain**
+* **RAG**
+* **Chroma Vector Database**
+* **Sentence Transformers**
+* **LLMs**
+* **PySpark**
+* **Databricks**
+* **Groq**
+* **OpenRouter**
+* **Ollama**
+
+**Key Features:**
+
+* **PowerCenter XML Parser**: Extracts mappings, transformations, fields, expressions, instances and connectors
+* **Dual RAG**: Dedicated PowerCenter and Databricks technical knowledge bases
+* **Migration Planner**: Uses structured mapping metadata and retrieved documentation to design migration strategies
+* **Plan Validation**: Detects unsupported assumptions and speculative migration decisions
+* **Automatic Plan Repair**: Repairs migration plans that fail deterministic validation
+* **PySpark Generation**: Generates migration code from validated plans
+* **Code Validation**: Python syntax, semantic and structural completeness checks
+* **Automatic Code Repair**: Repairs only mappings that fail validation
+* **Persistent Caching**: Reuses successful migration plans and generated code
+* **Migration Artifacts**: Produces migration reports and generated `.py` files
+* **Synthetic Examples**: Public PowerCenter XML examples for testing the end-to-end workflow
+
+> 🚧 **Status:** Working MVP under active development. Source Qualifier and Expression transformations are currently supported, with Aggregator, Joiner, Lookup and workflow/session parsing planned next.
+
+---
 
 ### 🚀 Sell-Out Analytics Pipeline [📄 Repo](https://github.com/TonyFiuma/sellout_databricks_pyspark)
 
@@ -36,7 +82,7 @@ The project includes **78 legacy importers**, multiple source-specific parsers, 
 
 > This repository is a sanitized portfolio reconstruction of a real-world Data Engineering project. Confidential data, customer identities and production environment information have been removed or replaced with synthetic values.
 
-## Tech Stack:
+**Tech Stack:**
 
 * **Azure Databricks**
 * **PySpark / Apache Spark**
@@ -48,7 +94,7 @@ The project includes **78 legacy importers**, multiple source-specific parsers, 
 * **Databricks Asset Bundles**
 * **Medallion Architecture**
 
-## Key Features:
+**Key Features:**
 
 * **Bronze Layer**: Multi-source ingestion and source-specific parsing
 * **Silver Layer**: Data standardization, reference mappings, FX normalization and harmonization
@@ -64,49 +110,57 @@ The project includes **78 legacy importers**, multiple source-specific parsers, 
 
 ### 🌎 Bank Rating Engine [📄 Repo](https://github.com/TonyFiuma/bank_rating_engine)
 
-The **Rating Engine Bank Pipeline** project is a robust data engineering solution designed to streamline and enhance the processing of financial data for a leading banking institution. This project leverages:
+The **Rating Engine Bank Pipeline** project is a robust Data Engineering solution designed to streamline and enhance the processing of financial data for a banking environment.
 
-**Tech Stack**:
+**Tech Stack:**
 
-* **Informatica Power Center** for ETL processes
-* **PL/SQL Oracle** for sophisticated data manipulation
-* **Linux** for reliable system operations
+* **Informatica PowerCenter**
+* **PL/SQL / Oracle**
+* **Linux**
 
-**Key features**:
+**Key Features:**
 
-* Advanced data visualization tools for real-time analytics and performance metrics
-* Backend system handles complex data transformations and integrations, ensuring seamless data flow
+* Enterprise ETL processes using Informatica PowerCenter
+* Complex data transformations using PL/SQL
+* Integration of multiple data flows
+* Linux-based operational execution
+* Data processing for banking workloads
 
 ---
 
 ### 🌐 Python ETL Project [📄 Repo](https://github.com/TonyFiuma/electric_cars_python_etl)
 
-In this **Python ETL Project**, I focused on building a scalable ETL process that extracts data from a specified URL, transforms it, and loads it into a CSV file or Google BigQuery.
-This project is designed to enhance my Python skills as a Data Engineer.
+In this **Python ETL Project**, I focused on building an ETL process that extracts data from a specified URL, transforms it and loads it into a CSV file or Google BigQuery.
 
-## Tech Stack:
+This project was developed to strengthen my Python skills applied to Data Engineering.
+
+**Tech Stack:**
 
 * **Python**
 * **Pandas**
 * **Google BigQuery**
 
-## Key Features:
+**Key Features:**
 
-* **Extraction**: Retrieves data from a given URL using Python's `requests` library.
-* **Transformation**: Utilizes Python's `pandas` library to clean and process the data, including filtering and formatting.
-* **Loading**: Supports outputting the transformed data into a CSV file or loading it directly into Google BigQuery for further analysis.
+* **Extraction**: Retrieves data from a given URL using Python's `requests` library
+* **Transformation**: Uses `pandas` to clean, filter and process the data
+* **Loading**: Supports CSV output or loading transformed data into Google BigQuery
 
 ---
 
-# 💫 About Me:
+# 💫 About Me
 
 🎂 Born and raised in **Italy** 🇮🇹
-🐛 Solving bugs since 2019 🔍
+🐛 Solving bugs since **2019** 🔍
 💼 Currently working as a **Data Engineer**
-🌱 Always learning new tools, especially related to **Big Data, Cloud and AI technologies**
-🎯 Passionate about building scalable data architectures and turning data into actionable insights
+⚡ Building solutions with **Databricks & PySpark**
+🤖 Exploring **Agentic AI, RAG, LangGraph and LLM applications for Data Engineering**
+🌱 Always learning new technologies related to **Big Data, Cloud and AI**
+🎯 Passionate about building scalable data architectures, modernizing legacy systems and turning data into actionable insights
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+
+### Data Engineering & Cloud
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
@@ -115,6 +169,18 @@ This project is designed to enhance my Python skills as a Data Engineer.
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300C8FF.svg?style=for-the-badge\&logo=Snowflake\&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23FF7300.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### AI & Agentic Systems
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-Vector%20Database-orange?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20Database-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=for-the-badge)
+
+### Development
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
